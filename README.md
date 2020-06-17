@@ -22,3 +22,7 @@ The machine learning project’s goal is to determine which of the individuals i
 ![alt text](https://github.com/AFoisAnalytics/National-Charitable-Organisation-Project/blob/master/Imagines/Slide8.JPG?raw=true)
 
 ![alt text](https://github.com/AFoisAnalytics/National-Charitable-Organisation-Project/blob/master/Imagines/Slide9.JPG?raw=true)
+
+![alt text](https://github.com/AFoisAnalytics/National-Charitable-Organisation-Project/blob/master/Machine%20Learning%20scripts%20and%20notes.pdf?raw=true)
+
+
